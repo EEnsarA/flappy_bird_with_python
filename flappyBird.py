@@ -1,4 +1,4 @@
-import pygame        #https://www.youtube.com/@CodingWithRuss 
+import pygame       
 from pygame.locals import *
 import random
 
